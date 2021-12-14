@@ -23,5 +23,5 @@
 
 
 
-([問い合わせ](mailto:)) ([プライバシーポリシー](PrivacyPolicy.md))
+([問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSeiu8Bl6Soqe6fr4K_ziM3I1gQl3iPlRYWXBI9uunRrdxzRng/viewform?usp=sf_link)) ([プライバシーポリシー](PrivacyPolicy.md))
 
