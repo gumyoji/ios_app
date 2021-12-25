@@ -19,7 +19,7 @@
 
 ## ダウンロード
 
-[<img src="App_Store_Badge_JP.png">]()
+[<img src="App_Store_Badge_JP.png">](https://apps.apple.com/jp/app/%E3%82%8F%E3%81%8F%E3%83%89%E3%82%AD-%E5%BC%98%E6%98%8E%E5%AF%BA%E5%A4%A7%E3%81%BC%E3%81%86%E3%81%91%E3%82%93/id1600239578)
 
 
 
